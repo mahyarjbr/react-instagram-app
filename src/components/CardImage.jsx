@@ -20,7 +20,7 @@ const CardImage = (props) => {
           <Slider {...settings}>
             {images.map((item) => (
               <div>
-                <img key={item.id} src={item.src} alt="card image" />
+                <img key={item.id} src={item.src} alt="card " />
               </div>
             ))}
           </Slider>
