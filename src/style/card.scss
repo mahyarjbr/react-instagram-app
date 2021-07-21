@@ -1,0 +1,37 @@
+@import "variables.scss";
+
+.card{
+    margin-bottom: 30px !important;
+   
+  
+
+    &__header{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+    }
+
+    &__image img{
+        width: 100%;
+      
+    }
+    &__content{
+        padding: 10px;
+    }
+ 
+    &__likes span{
+        font-size: 10px;
+
+    }
+
+
+   
+    .card__time{
+        font-size: 10px;
+        color: $font-color-secondary;
+    }
+    .card__likes{
+        margin:10px 0;
+    }
+}

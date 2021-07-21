@@ -1,0 +1,29 @@
+@import "variables.scss";
+
+
+.card__addComment {
+  padding: 10px;
+  border-top: 1px solid $border-color-grey;
+}
+
+.card__addComment ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card__addComment__left {
+  display: flex;
+}
+.addComment__input {
+  border: none;
+  margin-left: 10px;
+  font-size: 10px;
+  outline: none;
+}
+
+.card__addComment button{
+    border: none;
+    background: none;
+    color: #0095f6;
+    outline: none;
+}

@@ -1,0 +1,28 @@
+@import "variables.scss";
+.profile {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+
+  &__icon {
+    display: flex;
+    align-items: center;
+  }
+  &__content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    span {
+      font-weight: 600;
+      font-size: 10px;
+      cursor: pointer;
+    }
+    &-secondary {
+      color: $font-color-secondary;
+    }
+  }
+  a{
+      font-size: 10px;
+  }
+}

@@ -1,0 +1,14 @@
+
+
+.cardIcons{
+    display: flex;
+    align-items: center;
+   
+    justify-content: space-between;
+    &__left a{
+        margin-right: 1em;
+    }
+    .cardIcons__left{
+        z-index: 20;
+    }
+}

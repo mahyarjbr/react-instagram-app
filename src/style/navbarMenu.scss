@@ -1,0 +1,30 @@
+.navigation__menu{
+   
+}
+
+
+.navigation__menu ul {
+    
+   display: flex !important;
+   margin-bottom: 0 !important;
+
+    
+}
+
+.navigation__menu ul li {
+    margin-left: 10px;
+}
+
+@media only screen and (max-width:400px){
+    .navbarMenu__profileIcon{
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
