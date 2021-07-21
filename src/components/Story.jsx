@@ -5,13 +5,14 @@ import "../style/story.scss";
 
 const Story = () => {
   let accountName = users[Math.floor(Math.random() * users.length)].username;
+  let accountImage = users[Math.floor(Math.random() * users.length)].image;
 
   if (accountName.length > 10) {
     accountName = accountName.substr(1, 10) + "...";
   }
   return (
     <div className="story">
-      <ProfileIcon borderStory={true} imageSize="big" />
+      <ProfileIcon image={accountImage} borderStory={true} imageSize="big" />
       <span>{accountName}</span>
     </div>
   );

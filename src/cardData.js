@@ -5,6 +5,26 @@ import image4 from "./images/crypto.jpg";
 import image5 from "./images/bbc.jpg";
 import image6 from "./images/cryptoland.jpg";
 import myImage from "./images/mahyar.jpg";
+import userImage1 from "./images/user1.jpg";
+import userImage2 from "./images/user2.jpg";
+import userImage3 from "./images/user3.jpg";
+import userImage4 from "./images/user4.jpg";
+import userImage5 from "./images/user5.jpg";
+import userImage6 from "./images/user6.jpg";
+import userImage7 from "./images/user7.jpg";
+import userImage8 from "./images/user8.jpg";
+import userImage9 from "./images/user9.jpg";
+import userImage10 from "./images/user10.jpg";
+import userImage11 from "./images/user11.jpg";
+import userImage12 from "./images/user12.jpg";
+import userImage13 from "./images/user13.jpg";
+import userImage14 from "./images/user14.jpg";
+import userImage15 from "./images/user15.jpg";
+import userImage16 from "./images/user16.jpg";
+import userImage17 from "./images/user17.jpg";
+import userImage18 from "./images/user18.jpg";
+import userImage19 from "./images/user19.jpg";
+import userImage20 from "./images/user20.jpg";
 
 
 
@@ -93,103 +113,123 @@ const cardsData = [
 const users = [
   {
     id: 1,
-    name: "Leanne Graham",
-    username: "Bret",
+    name: "Narges Kalbasi",
+    username: "justnarges",
+    image:{src:userImage1}
   },
   {
     id: 2,
-    name: "Ervin Howell",
-    username: "Antonette",
+    name: "Trading Setups",
+    username: "setupstrading",
+    image:{src:userImage2}
   },
   {
     id: 3,
-    name: "Clementine Bauch",
-    username: "Samantha",
+    name: "بیت کوین | ارز دیجیتال",
+    username: "arzdigital",
+    image:{src:userImage3}
   },
   {
     id: 4,
-    name: "Patricia Lebsack",
-    username: "Karianne",
+    name: "ufc",
+    username: "ufc",
+    image:{src:userImage4}
   },
   {
     id: 5,
-    name: "Chelsey Dietrich",
-    username: "Kamren",
+    name: "Bloomberg Business",
+    username: "bloombergbusiness ",
+    image:{src:userImage5}
   },
   {
     id: 6,
-    name: "Mrs. Dennis Schulist",
-    username: "Leopoldo_Corkery",
+    name: "legend",
+    username: "den.legend",
+    image:{src:userImage6}
   },
   {
     id: 7,
-    name: "Kurtis Weissnat",
-    username: "Elwyn.Skiles",
+    name: "Yuli Yanty",
+    username: "yulyantila",
+    image:{src:userImage7}
   },
   {
     id: 8,
-    name: "Nicholas Runolfsdottir V",
-    username: "Maxime_Nienow",
+    name: "Try 4 Tricks",
+    username: "try4tricks.4799",
+    image:{src:userImage8}
   },
   {
     id: 9,
-    name: "Glenna Reichert",
-    username: "Delphine",
+    name: "Sarin Yuok",
+    username: "Sarin Group",
+    image:{src:userImage9}
   },
   {
     id: 10,
-    name: "Clementina DuBuque",
-    username: "Moriah.Stanton",
+    name: "🤍آموزش و اخبار ارزهای دیجیتال🤍",
+    username: "bitinex.ir",
+    image:{src:userImage10}
   },
   {
     id: 11,
-    name: "Donald Duck",
-    username: "donald.duck",
+    name: "نشریه ره‌آورد مدیریت",
+    username: "rahavardmodiriat",
+    image:{src:userImage11}
   },
   {
     id: 12,
-    name: "Adam Savage",
-    username: "adam.is.savage",
+    name: "mojtaba shakoori مجتبی شکوری",
+    username: "dr.mojtaba.shakoori.fanpage",
+    image:{src:userImage12}
   },
   {
     id: 13,
     name: "Daniel Redhill",
     username: "harry.trotter",
+    image:{src:userImage13}
   },
   {
     id: 14,
-    name: "Indiana Jones",
-    username: "Indy Shot First",
+    name: "DW Persian دویچه‌وله فارسی",
+    username: "dw_persian",
+    image:{src:userImage14}
   },
   {
     id: 15,
     name: "Claudia Beckam",
     username: "handball2020",
+    image:{src:userImage15}
   },
   {
     id: 16,
     name: "Fabio Edwards",
     username: "EastCoastLion",
+    image:{src:userImage16}
   },
   {
     id: 17,
     name: "Jonah Roads",
     username: "AlwaysTheFunnyGuy",
+    image:{src:userImage17}
   },
   {
     id: 18,
     name: "Damian Knight",
     username: "The Rook",
+    image:{src:userImage18}
   },
   {
     id: 19,
     name: "Rowan Atkinson",
     username: "Mr Bean",
+    image:{src:userImage19}
   },
   {
     id: 20,
     name: "Bugs Bunny",
     username: "Albuquerque",
+    image:{src:userImage20}
   },
 ];
 
