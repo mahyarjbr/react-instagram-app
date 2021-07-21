@@ -2,7 +2,7 @@ import React from "react";
 import Stories from "./Stories";
 import "../style/cards.scss";
 import Card from "./Card";
-import {cardsData} from "../cardData";
+import {cardsData} from "../data";
 
 const Cards = () => {
   return (

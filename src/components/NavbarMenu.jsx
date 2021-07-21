@@ -1,7 +1,7 @@
 import React from "react";
 import "../style/navbarMenu.scss";
 import ProfileIcon from "./ProfileIcon";
-import { myData } from "../cardData";
+import { myData } from "../data";
 const NavbarMenu = () => {
   return (
     <div className="navigation__menu">

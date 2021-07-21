@@ -1,5 +1,5 @@
 import React from "react";
-import { users } from "../cardData";
+import { users } from "../data";
 import ProfileIcon from "./ProfileIcon";
 import "../style/story.scss";
 

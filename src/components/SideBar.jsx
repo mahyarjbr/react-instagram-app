@@ -3,7 +3,7 @@ import Sticky from "react-sticky-el";
 import Profile from "./Profile";
 import Suggestions from "./Suggestions";
 import Footer from "./Footer";
-import { myData } from "../cardData";
+import { myData } from "../data";
 import "../style/sideBar.scss";
 
 const SideBar = () => {

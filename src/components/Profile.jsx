@@ -1,7 +1,7 @@
 import React from "react";
 import "../style/profile.scss";
 import ProfileIcon from "./ProfileIcon";
-import { users } from "../cardData";
+import { users } from "../data";
 
 const Profile = (props) => {
   const {
