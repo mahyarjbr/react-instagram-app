@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.caeedc89.chunk.css",
+    "main.js": "/static/js/main.7876e03a.chunk.js",
+    "main.js.map": "/static/js/main.7876e03a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fbc9b3b3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fbc9b3b3.js.map",
+    "static/js/2.92e46d08.chunk.js": "/static/js/2.92e46d08.chunk.js",
+    "static/js/2.92e46d08.chunk.js.map": "/static/js/2.92e46d08.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.caeedc89.chunk.css.map": "/static/css/main.caeedc89.chunk.css.map",
+    "static/js/2.92e46d08.chunk.js.LICENSE.txt": "/static/js/2.92e46d08.chunk.js.LICENSE.txt",
+    "static/media/bbc1.6b173ce9.jpg": "/static/media/bbc1.6b173ce9.jpg",
+    "static/media/bbc2.34e8d18e.jpg": "/static/media/bbc2.34e8d18e.jpg",
+    "static/media/bbc3.37d3f898.jpg": "/static/media/bbc3.37d3f898.jpg",
+    "static/media/crypto.4d5b3e25.jpg": "/static/media/crypto.4d5b3e25.jpg",
+    "static/media/mahyar.edfa4105.jpg": "/static/media/mahyar.edfa4105.jpg",
+    "static/media/user5.a6edfcd9.jpg": "/static/media/user5.a6edfcd9.jpg",
+    "static/media/user6.627d0de2.jpg": "/static/media/user6.627d0de2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbc9b3b3.js",
+    "static/js/2.92e46d08.chunk.js",
+    "static/css/main.caeedc89.chunk.css",
+    "static/js/main.7876e03a.chunk.js"
+  ]
+}
